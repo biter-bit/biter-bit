@@ -1,23 +1,23 @@
 
-# Привет, меня зовут Михаил!
+# Hi, my name is Mikhail!
 
 ---
 
-### Обо мне:
+### About me:
 
- Я backend-разработчик на python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. <br><br>Мой путь в it начался 4 года назад. Первые пол года обучался самостоятельно (первый кодинг, книги, видео и т.д.). После решил купить программу обучения backend-разработчика на python в GeekBrains, которая расчитана на 3 года. Обучение давалось непросто. Помню как я долго корпел над реализацией асинхронного чата. Как я пытался понять в чем отличие асинхронности, синхронности, многопроцессорности, многопоточности и как это все работает в python. В итоге я защитил итоговую проектную работу и получил диплом о профессиональной подготовке с квалификацией backend-разработчика на python.<br><br>В процессе обучения и по настоящее время я беру заказы на фрилансе и реализовываю свои проекты.<br><br>Хочу создать крупный и успешный проект с командой, которым я буду гордится
+ I'm a back-end python developer<img src="https://media .giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. <br><br>I can write parsers in scrapy, selenium, beautifulsoup. Make websites on django, flask, fast api. Write telegram bots using telethon, aiogram. Implement neural networks and work with third-party apis. To keep projects in working order, to introduce new features into them. He defended his final project work and received a diploma of professional training with the qualification of a backend developer in python.<br><br>I want to continue to develop my skills in this field and increase the scale of my projects
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Получил диплом о профессиональной подготовке и квалификацию backend-разработчика на python, который числится в Федеральном реестре документов об образовании.
+- :telescope: He received a diploma of professional training and a qualification of a backend developer in python, which is listed in the Federal Register of Educational Documents.
 
-- :seedling: Реализовал 5+ проектов.
+- :seedling: Commercial and practical experience in parsers, telegram bots, websites, project support, testing
 
-- :zap: Пробовал себя в роли тим лида в командной разработке.
+- :zap: I tried myself as a team leader in team development.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kurashevmichael-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kurashevmichael) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kurashevmichael@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-kurashevmichael-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kurashevmichael) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kurashevmichael@gmail.com)
 
 ---
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
@@ -49,7 +49,7 @@
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
