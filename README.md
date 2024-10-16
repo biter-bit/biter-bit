@@ -11,11 +11,13 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+- :📲
+
 - :telescope: I received a diploma of professional training and a qualification of a backend developer in python, which is listed in the Federal Register of Educational Documents.
 
 - :seedling: Commercial and practical experience in parsers, telegram bots, websites, project support, testing
 
-- :zap: I tried myself as a team leader in team development.
+- :zap: I tried myself as a team leader in team development
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-kurashevmichael-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kurashevmichael) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kurashevmichael@gmail.com)
 
