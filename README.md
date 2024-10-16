@@ -19,7 +19,7 @@
 
 - :seedling: Commercial and practical experience in parsers, telegram bots, websites, project support, testing
 
-- :zap: I tried myself as a team lead in team development
+- :zap: I has worked in both startups and large corporations and I tried myself as a team lead in team development
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-kurashevmichael-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kurashevmichael) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kurashevmichael@gmail.com)
 
