@@ -11,6 +11,8 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+### My achievements:
+
 - 📲 I create and maintain a service with 500 thousand audience, which provides access to 100 neural networks. Link ➡️ https://t.me/chatgpt_tgm_bot
 
 - 📥 I have created a parser that collects all users and all VKontakte and Telegram posts for the analytics and advertising service.
