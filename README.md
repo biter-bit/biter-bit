@@ -5,7 +5,7 @@
 
 ### About me:
 
- I'm a back-end python developer<img src="https://media .giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. <br><br>I can write parsers in scrapy, selenium, beautifulsoup. Make websites on django, flask, fast api. Write telegram bots using telethon, aiogram. Implement neural networks and work with third-party apis. To keep projects in working order, to introduce new features into them. Write integration and unit tests for a project. I defended his final project work and received a diploma of professional training with the qualification of a backend developer in python.<br><br>I want to continue to develop my skills in this field and increase the scale of my projects.
+ I'm a backend python developer<img src="https://media .giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. <br><br>I can write parsers in scrapy, selenium, beautifulsoup. Make websites on django, flask, fast api. Write telegram bots using telethon, aiogram. Implement neural networks and work with third-party apis. To keep projects in working order, to introduce new features into them. Write integration and unit tests for a project. I defended his final project work and received a diploma of professional training with the qualification of a backend developer in python.<br><br>I want to continue to develop my skills in this field and increase the scale of my projects.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
