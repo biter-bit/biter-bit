@@ -11,7 +11,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: He received a diploma of professional training and a qualification of a backend developer in python, which is listed in the Federal Register of Educational Documents.
+- :telescope: I received a diploma of professional training and a qualification of a backend developer in python, which is listed in the Federal Register of Educational Documents.
 
 - :seedling: Commercial and practical experience in parsers, telegram bots, websites, project support, testing
 
