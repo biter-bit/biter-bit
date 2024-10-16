@@ -11,7 +11,8 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :📲
+- 📲 I create and maintain a service with 500 thousand audience, which provides access to 100 
+neural networks
 
 - :telescope: I received a diploma of professional training and a qualification of a backend developer in python, which is listed in the Federal Register of Educational Documents.
 
