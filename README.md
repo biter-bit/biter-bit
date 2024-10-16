@@ -11,8 +11,9 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- 📲 I create and maintain a service with 500 thousand audience, which provides access to 100 
-neural networks
+- 📲 I create and maintain a service with 500 thousand audience, which provides access to 100 neural networks.
+
+- 📥 I have created a parser that collects  all users and all VKontakte and Telegram posts, which allows you to analyze the audience and provide advertising to users.
 
 - :telescope: I received a diploma of professional training and a qualification of a backend developer in python, which is listed in the Federal Register of Educational Documents.
 
