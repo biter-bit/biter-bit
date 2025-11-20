@@ -67,21 +67,3 @@
 </div>
 
 
----
-
-### 📊 GitHub статистика
-
-<div align="center">
-
-<!-- Основная статистика -->
-<img src="https://github-readme-stats.vercel.app/api?username=biter-bit&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<!-- Топ языков -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biter-bit&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=biter-bit&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-
