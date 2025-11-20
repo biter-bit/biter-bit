@@ -1,29 +1,33 @@
 
-# Hi, my name is Mikhail!
+# Привет, меня зовут Миша! Добро пожаловать на мою страницу на GitHub!
 
 ---
 
-### About me:
+### Обо мне:
 
- I'm a backend python developer with 5+ years of experience. Before programming, i worked in the field of advertising for 3 years, analyzed a large amount of information and worked with metrics.<img src="https://media .giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. <br><br>One of the last areas of my work is the creation of bots and parsers. I have developed several Telegram bots that support more than 500 thousand users. These projects implement complex interaction scenarios, integration with various external services, and provide high-load operation. In addition, I have created a parser that collects information about all users, groups and channels in VKontakte and Telegram for the analytics and advertising service.<br><br>I also developed an asynchronous chat with end-to-end encryption, where I used PyQt5 for the frontend and asynchronous Python technologies for the backend. In addition to this, I have created an online bodybuilding training service with the integration of artificial intelligence on Django, in which I have developed both a frontend and a backend.<br><br>My experience covers a wide range of technologies and tasks, including creating websites on Django, Flask and FastAPI, writing parsers using Scrapy, Selenium and BeautifulSoup, as well as developing telegram bots with Telethon and Aiogram. I am able to implement neural networks and work with various APIs, keep projects running and add new functions. In my projects, I also write integration and unit tests to ensure code quality.<br><br>As a hobby, I administer programming projects. I want to continue to develop my skills in this field and increase the scale of my projects.<br><br>You can view my project portfolio in the pinned section below or go to my repositories for a more detailed study ➡️ https://github.com/biter-bit?tab=repositories.
+Я — Python Backend-разработчик с 6-летним опытом.
+Последние годы работал над разработкой и масштабированием высоконагруженного Telegram-бота по нейросетям, который вырос до **500+ тысяч пользователей** и обрабатывал более **1 млн запросов в сутки**.
+Проект я **создавал с нуля** — от архитектуры до инфраструктуры.
+
+### Среди моих ключевых результатов:
+
+- 📲 спроектировал и написал backend, после разделил систему на микросервисы, что ускорило выпуск фич с нескольких дней до **1–2 дней**;
+
+- 📥 нормализовал базу данных и оптимизировал SQL-запросы — тяжёлые запросы ускорились примерно с 120–150 мс до **30–40 мс**;
+
+- :telescope: внедрил Redis-кэширование — нагрузка на PostgreSQL снизилась на **20–25%**;
+
+- :seedling: выстроил CI/CD — количество ручных операций сократилось примерно на **70%**, а деплой стал занимать **3–5 минут** вместо 20+;
+
+- :zap: интегрировал Kubernetes — добились автоматического масштабирования, самовосстановления и повышения отказоустойчивости;
+
+- проводил аварийные миграции production за один день.
+
+Кроме highload-проекта, я делал full-stack приложение (Python + React) как тимлид; систему скраппинга, который собирает информацию обо всех пользователях, группах и каналах во «ВКонтакте» и «Telegram» для аналитического и рекламного сервиса; чат со сквозным шифрованием; сайты и интернет-магазины на Flask, Django, FastAPI; работал QA Engineer в компании "Чистая Линия", где писал модульные и интеграционные тесты.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-### My achievements:
-
-- 📲 I create and maintain a service with 500 thousand audience, which provides access to 100 neural networks. Link ➡️ https://t.me/chatgpt_tgm_bot
-
-- 📥 I have created a parser that collects all users and all VKontakte and Telegram posts for the analytics and advertising service.
-
-- :telescope: I received a diploma of professional training and a qualification of a backend developer in python, which is listed in the Federal Register of Educational Documents.
-
-- :seedling: Commercial and practical experience in parsers, telegram bots, websites, project support, testing
-
-- :zap: I has worked in both startups and large corporations. I tried myself as a team lead in team development
-
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-kurashevmichael-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kurashevmichael) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kurashevmichael@gmail.com)
 
 ---
 
