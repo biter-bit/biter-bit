@@ -51,24 +51,34 @@
 
 ### 💻 Технологии:
 
-<div> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" title="Django"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" title="Flask"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40" height="40" title="Redis"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes"/>&nbsp </div>
+Backend
+<div> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45" title="Python"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="45" height="45" title="Django"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="45" height="45" title="Flask"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45" height="45" title="FastAPI"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="45" height="45" title="Redis"/>&nbsp; </div>
+Telegram / Bots
+<div> <img src="https://raw.githubusercontent.com/aiogram/aiogram/master/logo.png" width="45" height="45" title="aiogram"/>&nbsp; <img src="https://raw.githubusercontent.com/LonamiWebs/Telethon/master/docs/_static/telethon.svg" width="45" height="45" title="Telethon"/>&nbsp; </div>
+Scraping
+<div> <img src="https://github.com/devicons/devicon/blob/master/icons/scrapy/scrapy-original.svg" width="45" height="45" title="Scrapy"/>&nbsp; <img src="https://selenium.dev/images/selenium_logo_square_green.png" width="45" height="45" title="Selenium"/>&nbsp; <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/beautifulsoup.svg" width="45" height="45" title="BeautifulSoup"/>&nbsp; </div>
+DevOps / Infrastructure
+<div> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" title="Kubernetes"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="45" height="45" title="Nginx"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45" title="Git"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>&nbsp; </div>
+Frontend
+<div> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45" title="React"/>&nbsp; </div>
 
 ---
 
-### 🛠 Tools:
+### 🛠 Инструменты:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="45" height="45" title="PyCharm"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="45" height="45" title="Photoshop"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="45" height="45" title="Canva"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="45" height="45" title="Figma"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" width="45" height="45" title="YouTube"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>&nbsp;
 </div>
+
 
 ---
 
-### ⚙️ GitHub statistics:
+### ⚙️ Статистика GitHub аккаунта:
 
 <table>
   <tr>
