@@ -9,7 +9,7 @@
 
 Последние несколько лет я развивал крупного Telegram-бота в сфере нейросетей. Бот вырос до 500 000+ активных пользователей и обрабатывал свыше миллиона запросов в сутки. Я был одним из тех, кто делал его “от земли”: начинал с архитектуры и прототипов, а затем довёл до полноценного высоконагруженного продукта.
 
-🚀 Основные достижения:
+🚀 Основные результаты проекта:
 
 - 📲 Перешёл от монолита к микросервисам — благодаря этому задачи внедрялись быстрее, а разработка стала более гибкой.
 
@@ -27,7 +27,7 @@
 
 - full-stack решений (Python + React), где я выступал тимлидом
 
-- крупной системы скраппинга для “ВКонтакте” и Telegram
+- крупной системы скраппинга для "ВКонтакте" и "Telegram"
 
 - защищённого чата с end-to-end шифрованием
 
@@ -47,16 +47,7 @@
 
 ### 💻 Технологии:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-</div>
+<div> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" title="Django"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" title="Flask"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40" height="40" title="Redis"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>&nbsp <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes"/>&nbsp </div>
 
 ---
 
