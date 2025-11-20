@@ -75,14 +75,14 @@
 
 <div align="center">
 
-<!-- Основная статистика -->
-<img src="https://github-readme-stats.vercel.app/api?username=biter-bit&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<!-- Полная активность (детали профиля) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biter-bit&theme=tokyonight" alt="Profile details" width="100%"/>
 
-<!-- Топ языков -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biter-bit&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<!-- Диаграмма максимальной продуктивности -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biter-bit&theme=tokyonight" alt="Productive time" height="200"/>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=biter-bit&theme=tokyonight&hide_border=true" height="165"/>
+<!-- Граф активности -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biter-bit&theme=tokyonight" alt="Activity graph"/>
 
 </div>
 
