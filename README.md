@@ -71,6 +71,8 @@
 
 ### ⚙️ Статистика GitHub аккаунта:
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=biter-bit&show_icons=true&theme=radical)
+
 <table>
   <tr>
     <td>
