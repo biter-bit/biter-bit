@@ -41,7 +41,7 @@
 
 Мне нравится собирать системы, которые работают стабильно и выдерживают нагрузку, разворачивать инфраструктуру, интегрировать новые технологии и оптимизировать всё, до чего могу дотянуться.
 
-:mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-kurashevmichael-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kurashevmichael) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kurashevmichael@gmail.com)
+:mailbox: Для связи со мной: [![Telegram Badge](https://img.shields.io/badge/-kurashevmichael-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kurashevmichael) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kurashevmichael@gmail.com)
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
