@@ -71,6 +71,7 @@
 
 ### 📊 GitHub статистика
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biter-bit)](https://git.io/streak-stats)
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biter-bit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
