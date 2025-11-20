@@ -71,16 +71,6 @@
 
 ### 📊 GitHub статистика
 
-## 🧠 Основные компетенции
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Backend%20Architecture-Senior-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Highload-1M+%20req%2Fday-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AsyncIO-Pro-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Telegram%20Bots-500k%20users-lightgrey?style=for-the-badge&logo=telegram" />
-  <img src="https://img.shields.io/badge/Kubernetes-Production--Ready-blue?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Redis-blue?style=for-the-badge" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biter-bit)](https://git.io/streak-stats)
 
 
