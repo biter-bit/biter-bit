@@ -69,20 +69,18 @@
 
 ---
 
-### ⚙️ Статистика GitHub аккаунта:
-
 ### 📊 GitHub статистика
 
-<div align="center">
+## 🧠 Основные компетенции
 
-<!-- Полная активность (детали профиля) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biter-bit&theme=tokyonight" alt="Profile details" width="100%"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Backend%20Architecture-Senior-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Highload-1M+%20req%2Fday-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AsyncIO-Pro-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telegram%20Bots-500k%20users-lightgrey?style=for-the-badge&logo=telegram" />
+  <img src="https://img.shields.io/badge/Kubernetes-Production--Ready-blue?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Redis-blue?style=for-the-badge" />
+</p>
 
-<!-- Диаграмма максимальной продуктивности -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biter-bit&theme=tokyonight" alt="Productive time" height="200"/>
-
-<!-- Граф активности -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biter-bit&theme=tokyonight" alt="Activity graph"/>
-
-</div>
 
