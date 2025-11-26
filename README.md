@@ -41,6 +41,9 @@
 
 Мне нравится собирать системы, которые работают стабильно и выдерживают нагрузку, разворачивать инфраструктуру, интегрировать новые технологии и оптимизировать всё, до чего могу дотянуться.
 
+Многие мои проекты находятся в приватных репозиториях из-за NDA и коммерческой тайны.
+На GitHub выложена витринная версия одного из крупнейших проектов, над которым я работал последние годы.
+
 :mailbox: Для связи со мной: [![Telegram Badge](https://img.shields.io/badge/-kurashevmichael-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kurashevmichael) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kurashevmichael@gmail.com)
 
 <p align="center">
