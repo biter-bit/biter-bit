@@ -11,7 +11,7 @@
 
 Основная специализация — проектирование, реализация, масштабирование и поддержка backend-архитектуры высоконагруженных систем. 
 
-Работал с FastAPI, Django и Flask: разрабатывал сайты, интернет-магазины, backend-сервисы и API. Создавал коммерческие Telegram-боты на aiogram, системы веб-скрапинга на BeautifulSoup, Selenium и Scrapy, асинхронные приложения и fullstack-сервисы (React + Python). 
+Работал с FastAPI, Django и Flask: разрабатывал сайты, интернет-магазины, backend-сервисы и API. Создавал коммерческие Telegram-боты на aiogram ([@chatgpt_tgm_bot](https://t.me/chatgpt_tgm_bot), системы веб-скрапинга ([Plibber.ru](https://plibber.ru/)) на BeautifulSoup, Selenium и Scrapy, асинхронные приложения и fullstack-сервисы (React + Python). 
 
 Занимался контейнеризацией, деплоем и эксплуатацией сервисов с использованием Docker, Kubernetes и CI/CD (GitHub Actions), а также поддержкой проектов, QA-практикой и руководством разработкой.
 
